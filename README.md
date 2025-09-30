@@ -1,4 +1,4 @@
-# 📊 Sales Trend Analysis Using Aggregations
+# Sales Trend Analysis Using Aggregations
 
 ## 🔹 Task Overview
 
@@ -29,6 +29,6 @@ The analysis uses two input files:
 
 ## 🔹 Tools & Technologies
 
-* SQL (PostgreSQL / MySQL / SQLite supported)
+* SQL (MSSM)
 * CSV files as source data
 
